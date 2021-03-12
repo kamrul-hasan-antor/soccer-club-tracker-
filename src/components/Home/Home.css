@@ -1,0 +1,13 @@
+.header {
+  background-image: url("https://wallpapercave.com/wp/e4McQRT.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+  margin: 1%;
+}
+.header h1 {
+  text-align: center;
+  padding: 120px;
+  font-size: 60px;
+  color: rgb(69, 108, 236);
+}

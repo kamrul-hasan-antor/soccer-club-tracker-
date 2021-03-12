@@ -1,0 +1,51 @@
+.backgroundImg {
+  background-image: url("https://wallpapercave.com/wp/e4McQRT.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+  width: 98%;
+  height: 300px;
+  margin: 1%;
+}
+.bannerImg {
+  display: block;
+  margin: auto;
+  width: 250px;
+}
+.detail {
+  color: white;
+  background-color: rgb(7, 6, 82);
+  width: 98%;
+  margin: 1%;
+  padding: 20px;
+}
+.basicInfo {
+  margin-top: 40px;
+  height: 300px;
+}
+h1 {
+  font-size: 60px;
+  margin-left: 30px;
+}
+h5 {
+  margin-left: 30px;
+}
+.description {
+  margin-top: 20px;
+  background-color: rgb(17, 115, 145);
+  padding: 10px;
+}
+.playerImg {
+  display: block;
+  margin: auto;
+  padding: 15px;
+}
+.row {
+  background-color: rgb(60, 69, 150);
+}
+.footer {
+  margin-top: 15px;
+}
+.socialImg {
+  width: 60px;
+}

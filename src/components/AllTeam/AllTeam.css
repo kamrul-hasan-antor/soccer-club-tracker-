@@ -1,0 +1,22 @@
+.mainCard {
+  margin-top: 32px;
+  box-shadow: 10px 12px 15px rgba(27, 27, 27, 0.404);
+}
+.team {
+  display: inline-flex;
+}
+.images {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+}
+.cardTitle {
+  text-align: center;
+}
+h6 {
+  font-family: bold;
+}
+h3 {
+  font-family: bold;
+}
