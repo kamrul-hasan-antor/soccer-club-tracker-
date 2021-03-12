@@ -24,10 +24,11 @@
   height: 300px;
 }
 h1 {
-  font-size: 60px;
+  font-family: bold;
   margin-left: 30px;
 }
 h5 {
+  font-family: bold;
   margin-left: 30px;
 }
 .description {

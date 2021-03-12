@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import Home from "./components/Home/Home";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import NoTeam from "./components/NoTeam/NoTeam";
 import TeamDetail from "./components/TeamDetail/TeamDetail";
 
